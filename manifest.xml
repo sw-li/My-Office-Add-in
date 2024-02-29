@@ -3,9 +3,9 @@
   <Id>4614c5b9-b5cf-4afb-adef-9c77ccea033a</Id>
   <Version>1.0.0.0</Version>
   <ProviderName>Contoso</ProviderName>
-  <DefaultLocale>en-US</DefaultLocale>
-  <DisplayName DefaultValue="My Office Add-in"/>
-  <Description DefaultValue="A template to get started."/>
+  <DefaultLocale>fr-FR</DefaultLocale>
+  <DisplayName DefaultValue="Shengwei's Add-in Test"/>
+  <Description DefaultValue="Started from yo office template."/>
   <IconUrl DefaultValue="https://localhost:3000/assets/icon-32.png"/>
   <HighResolutionIconUrl DefaultValue="https://localhost:3000/assets/icon-64.png"/>
   <SupportUrl DefaultValue="https://www.contoso.com/help"/>
